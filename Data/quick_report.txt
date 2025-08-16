@@ -1,0 +1,12 @@
+=== SENTIMENT ANALYSIS REPORT ===
+Generated on: 2025-08-15 19:03:33
+
+Processed rows: 2161
+Validator agreement rate: 39.843%
+Average final confidence: 0.387
+Potential risk sources: bobette.riner@ipgdirect.com,don.baughman@enron.com,eric.bass@enron.com,john.arnold@enron.com,johnny.palmer@enron.com,kayne.coulter@enron.com,lydia.delgado@enron.com,patti.thompson@enron.com,rhonda.denton@enron.com,sally.beck@enron.com
+
+Recommendations:
+ - Manual review for low-confidence rows and disagreement cases.
+ - Consider calibration with labeled data.
+ - Regular monitoring of sentiment trends and risk indicators.
